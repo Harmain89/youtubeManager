@@ -17,13 +17,15 @@ const uploadOnCloudinary = async (localFilePath) => {
         // upload the file on Cloudinary
         const response = await cloudinary.uploader
             .upload(
-                'https://res.cloudinary.com/demo/image/upload/getting-started/shoes.jpg', {
+                localFilePath, {
                     resource_type: 'auto'
                 }
             );
             
         // file has been uploaded successfully
         console.log("File is uploaded on Cloudinary", response.url);
+
+        fs.unlinkSync(localFilePath);
 
         return response;
         

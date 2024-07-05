@@ -201,7 +201,7 @@ const refreshAccessToken = asyncHandler(async (req, res) => {
 
     try {
     
-        const decodedToken = jwt.verify(incommingRefreshToken, process.env.REFRESH_TOKEN_SECRET)
+        const decodedToken = jwt.verify(incommingRefreshToken, process.env.REFRESH_TOKEN_SECRET) // It will check that , does it relate to our JWT.
     
         const user = await User.findById(decodedToken?._id)
     

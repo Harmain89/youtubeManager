@@ -270,7 +270,7 @@ const changeCurrentPassword = asyncHandler(async (req, res) => {
 })
 
 
-const getcurrentUser = asyncHandler(async (req, res) => {
+const getCurrentUser = asyncHandler(async (req, res) => {
 
     if(!isloggedIn) {
         throw new ApiError(400, "Unauthorized User.")
@@ -380,7 +380,7 @@ export {
     logoutUser,
     refreshAccessToken,
     changeCurrentPassword,
-    getcurrentUser,
+    getCurrentUser,
     updateAccountDetails,
     updateUserAvatar,
     updateUserCoverImage

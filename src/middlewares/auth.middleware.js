@@ -4,9 +4,21 @@ import { asyncHandler } from "../utils/asyncHandler.js";
 import jwt from "jsonwebtoken"
 
 
+let toggleAuth = true;
+
+export const confirmLog = (isloggedIn = true) => {
+    toggleAuth = isloggedIn;
+    return isloggedIn;
+}
+
 export const verifyJWT = asyncHandler(async (req, res, next) => {
 
     try {
+    
+        if(!toggleAuth) {
+            req.user = {};
+            throw new ApiError(401, "Unauthorized Request.")
+        }
     
         const token = req.cookies?.accessToken || req.header("Authorization")?.replace("Bearer ", "")
     

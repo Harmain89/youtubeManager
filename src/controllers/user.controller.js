@@ -5,6 +5,7 @@ import { uploadOnCloudinary } from "../utils/cloudinary.js"
 import { ApiResponse } from "../utils/ApiResponse.js"
 import jwt from "jsonwebtoken"
 import mongoose from "mongoose"
+import { confirmLog } from "../middlewares/auth.middleware.js"
 
 
 let isloggedIn = false;
@@ -183,6 +184,7 @@ const logoutUser = asyncHandler(async (req, res) => {
     req.user = {}
 
     isloggedIn = false
+    confirmLog(false)
 
 
     const options = {
@@ -390,7 +392,7 @@ const getUserChannelProfile = asyncHandler(async (req, res) => {
         },
         {
             $lookup: {
-                from: "Subscription",
+                from: "subscriptions",
                 localField: "_id",
                 foreignField: "channel",
                 as: "subscribers"
@@ -398,7 +400,7 @@ const getUserChannelProfile = asyncHandler(async (req, res) => {
         },
         {
             $lookup: {
-                from: "subscription",
+                from: "subscriptions",
                 localField: "_id",
                 foreignField: "subscriber",
                 as: "subscribedTo"

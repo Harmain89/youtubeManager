@@ -199,6 +199,32 @@ const getLikedVideos = asyncHandler(async (req, res) => {
         const getAllLikedVideos = likes.map(like => like.video);
 
 
+
+
+        // -------------------------------------- Throw Aggregation pipelines ###########
+
+        // const getAllLikedVideos = await Like.aggregate([
+        //     {
+        //         $match: {
+        //             likedBy: userId
+        //         }
+        //     },
+        //     {
+        //         $lookup: {
+        //             from: "videos",
+        //             localField: "video",
+        //             foreignField: "_id",
+        //             as: "videoDetails"
+        //         }
+        //     },
+        //     {
+        //         $unwind: "$videoDetails"
+        //     }
+        // ])
+
+        // const likedVideos = getAllLikedVideos.map(like => like.videoDetails);
+
+
         if(!getAllLikedVideos.length) {
             throw new ApiError(200, "User did not liked any video yet.")
         }

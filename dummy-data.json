@@ -1,0 +1,3165 @@
+[
+
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8354f"
+        },
+        "id": "10021-2015-ENFO",
+        "certificate_number": 9278806,
+        "business_name": "ATLIXCO DELI GROCERY INC.",
+        "date": "Feb 20 2015",
+        "result": "No Violation Issued",
+        "sector": "Cigarette Retail Dealer - 127",
+        "address": {
+            "city": "RIDGEWOOD",
+            "zip": 11385,
+            "street": "MENAHAN ST",
+            "number": 1712
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83550"
+        },
+        "id": "10057-2015-ENFO",
+        "certificate_number": 6007104,
+        "business_name": "LD BUSINESS SOLUTIONS",
+        "date": "Feb 25 2015",
+        "result": "Violation Issued",
+        "sector": "Tax Preparers - 891",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10030,
+            "street": "FREDERICK DOUGLASS BLVD",
+            "number": 2655
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83551"
+        },
+        "id": "10084-2015-ENFO",
+        "certificate_number": 9278914,
+        "business_name": "MICHAEL GOMEZ RANGHALL",
+        "date": "Feb 10 2015",
+        "result": "No Violation Issued",
+        "sector": "Locksmith - 062",
+        "address": {
+            "city": "QUEENS VLG",
+            "zip": 11427,
+            "street": "214TH ST",
+            "number": 8823
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83552"
+        },
+        "id": "1012-2015-CMPL",
+        "certificate_number": 5346909,
+        "business_name": "A\u0026C CHIMNEY CORP.",
+        "date": "Apr 22 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "QUEENS VLG",
+            "zip": 11428,
+            "street": "210TH ST",
+            "number": 9440
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83553"
+        },
+        "id": "10127-2015-CMPL",
+        "certificate_number": 5381180,
+        "business_name": "ERIC CONSTRUCTION AND DECORATING INC.",
+        "date": "Sep  8 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "STATEN ISLAND",
+            "zip": 10304,
+            "street": "TODT HILL RD",
+            "number": 1233
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83554"
+        },
+        "id": "10172-2015-CMPL",
+        "certificate_number": 9304489,
+        "business_name": "UNNAMED HOT DOG VENDOR LICENSE NUMBER TA01158",
+        "date": "Aug 21 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83555"
+        },
+        "id": "102-2015-UNIT",
+        "certificate_number": 10003479,
+        "business_name": "SOUTH BRONX AUTOMOTIVE CORP",
+        "date": "May 28 2015",
+        "result": "Pass",
+        "sector": "Tow Truck Company - 124",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83556"
+        },
+        "id": "10268-2015-CMPL",
+        "certificate_number": 9304816,
+        "business_name": "UNNAMED HOT DOG VENDOR NO LICENSE NUMBER PROVIDED",
+        "date": "Aug 19 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83557"
+        },
+        "id": "10284-2015-ENFO",
+        "certificate_number": 9287088,
+        "business_name": "VYACHESLAV KANDZHANOV",
+        "date": "Feb 25 2015",
+        "result": "No Violation Issued",
+        "sector": "Misc Non-Food Retail - 817",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10030,
+            "street": "FREDRCK D BLVD",
+            "number": 2655
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83558"
+        },
+        "id": "10312-2015-ENFO",
+        "certificate_number": 9287090,
+        "business_name": "GRICEYDA M VILLAR",
+        "date": "Feb 25 2015",
+        "result": "No Violation Issued",
+        "sector": "Salons And Barbershop - 841",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10030,
+            "street": "FREDRCK D BLVD",
+            "number": 2645
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83559"
+        },
+        "id": "10302-2015-ENFO",
+        "certificate_number": 9287089,
+        "business_name": "NYC CANDY STORE SHOP CORP",
+        "date": "Feb 25 2015",
+        "result": "No Violation Issued",
+        "sector": "Cigarette Retail Dealer - 127",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10030,
+            "street": "FREDRCK D BLVD",
+            "number": 2653
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8355a"
+        },
+        "id": "10290-2015-CMPL",
+        "certificate_number": 9305498,
+        "business_name": "AYAD YOUSSEF",
+        "date": "Jul 23 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "JERSEY CITY",
+            "zip": 7306,
+            "street": "TONNELE AVE",
+            "number": 70
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8355b"
+        },
+        "id": "10318-2015-ENFO",
+        "certificate_number": 9287092,
+        "business_name": "BISHWANATH BISWAS",
+        "date": "Feb 25 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "ELMHURST",
+            "zip": 11373,
+            "street": "75TH ST",
+            "number": 4157
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8355c"
+        },
+        "id": "1033-2015-CMPL",
+        "certificate_number": 5347333,
+        "business_name": "H \u0026 H FURNITURE",
+        "date": "Apr 29 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "S RICHMOND HL",
+            "zip": 11419,
+            "street": "101ST AVE",
+            "number": 11420
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8355d"
+        },
+        "id": "10351-2015-CMPL",
+        "certificate_number": 5381196,
+        "business_name": "NEW FINEST BUILDERS INC",
+        "date": "Dec  1 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11234,
+            "street": "E 55TH ST",
+            "number": 1320
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8355e"
+        },
+        "id": "10391-2015-ENFO",
+        "certificate_number": 3019415,
+        "business_name": "WILFREDO DELIVERY SERVICE INC",
+        "date": "Feb 26 2015",
+        "result": "Fail",
+        "sector": "Fuel Oil Dealer - 814",
+        "address": {
+            "city": "WADING RIVER",
+            "zip": 11792,
+            "street": "WADING RIVER MANOR RD",
+            "number": 1607
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8355f"
+        },
+        "id": "10423-2015-CMPL",
+        "certificate_number": 9304139,
+        "business_name": "LISANDRO CABRERA",
+        "date": "Jul 17 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "BRONX",
+            "zip": 10475,
+            "street": "PALMER AVE",
+            "number": 2234
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83560"
+        },
+        "id": "1044-2016-ENFO",
+        "certificate_number": 9318079,
+        "business_name": "AZMY KIROLES",
+        "date": "Dec 23 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "JERSEY CITY",
+            "zip": 7306,
+            "street": "VROOM ST",
+            "number": 160
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83561"
+        },
+        "id": "1044-2015-CMPL",
+        "certificate_number": 5382334,
+        "business_name": "BUILDING TO SERVE INC.",
+        "date": "Jul 22 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "JAMAICA",
+            "zip": 11432,
+            "street": "HILLSIDE AVE",
+            "number": 17939
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83562"
+        },
+        "id": "10459-2015-ENFO",
+        "certificate_number": 3019419,
+        "business_name": "SPRAGUE OPERATING RESOURCES LLC.",
+        "date": "Feb 27 2015",
+        "result": "Pass",
+        "sector": "Fuel Oil Dealer - 814",
+        "address": {
+            "city": "LAWRENCE",
+            "zip": 11559,
+            "street": "BAY BLVD",
+            "number": 1
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83563"
+        },
+        "id": "10464-2015-CMPL",
+        "certificate_number": 5381856,
+        "business_name": "NADER R. ABDELREHIM",
+        "date": "Aug 21 2015",
+        "result": "Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11222,
+            "street": "NEWELL ST",
+            "number": 51
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83564"
+        },
+        "id": "10465-2015-CMPL",
+        "certificate_number": 9289037,
+        "business_name": "UNNAMED HOT DOG WAGON  NO LICENSE NUMBER PROVIDED",
+        "date": "Jul 23 2015",
+        "result": "Unable to Locate",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83565"
+        },
+        "id": "1048-2016-ENFO",
+        "certificate_number": 9319054,
+        "business_name": "QUIRINO MORALES",
+        "date": "Dec 23 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "EAST ELMHURST",
+            "zip": 11370,
+            "street": "80TH ST",
+            "number": 3216
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83566"
+        },
+        "id": "10502-2015-ENFO",
+        "certificate_number": 3030353,
+        "business_name": "UNLIMITED TRUCKING CORP.",
+        "date": "Feb 27 2015",
+        "result": "Fail",
+        "sector": "Fuel Oil Dealer - 814",
+        "address": {
+            "city": "EAST MEADOW",
+            "zip": 11554,
+            "street": "NEWBRIDGE RD",
+            "number": 361
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83567"
+        },
+        "id": "10559-2015-ENFO",
+        "certificate_number": 9302188,
+        "business_name": "EAGLE TILE \u0026 HOME CENTER, INC.",
+        "date": "Mar  2 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10029,
+            "street": "2ND AVE",
+            "number": 2254
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83568"
+        },
+        "id": "10599-2015-CMPL",
+        "certificate_number": 9305598,
+        "business_name": "SHARIF AHMAD",
+        "date": "Jul 16 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "FLUSHING",
+            "zip": 11354,
+            "street": "PARSONS BLVD",
+            "number": 3338
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83569"
+        },
+        "id": "10682-2015-CMPL",
+        "certificate_number": 5381188,
+        "business_name": "R\u0026S HOME IMPROVEMENT \u0026 CABINETRY INC.",
+        "date": "Nov  6 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "SOUTH OZONE PARK",
+            "zip": 11420,
+            "street": "111TH AVE",
+            "number": 12705
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8356a"
+        },
+        "id": "10712-2015-ENFO",
+        "certificate_number": 3019428,
+        "business_name": "TOSHIBA GLOBAL COMMERCE SOLUTIONS, INC",
+        "date": "Feb 11 2015",
+        "result": "Pass",
+        "sector": "Scale Dealer/Repairer - 107",
+        "address": {
+            "city": "DURHAM",
+            "zip": 27709,
+            "street": "CORNWALLIS RD",
+            "number": 3039
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8356b"
+        },
+        "id": "10734-2015-CMPL",
+        "certificate_number": 9289034,
+        "business_name": "UNKNOWN HANDSOME CAB DRIVER LICENSE HC 1129",
+        "date": "Jul 23 2015",
+        "result": "Unable to Locate",
+        "sector": "Horse Drawn Cab Driver - 086",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8356c"
+        },
+        "id": "10735-2015-CMPL",
+        "certificate_number": 5389246,
+        "business_name": "NADAL 2 DELI CONVENIENCE, INC.",
+        "date": "Dec 24 2015",
+        "result": "Violation Issued",
+        "sector": "Grocery-Retail - 808",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10031,
+            "street": "BROADWAY",
+            "number": 3578
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8356d"
+        },
+        "id": "10768-2015-ENFO",
+        "certificate_number": 9302189,
+        "business_name": "LOUIS P DUSHAJ",
+        "date": "Mar  2 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Salesperson - 101",
+        "address": {
+            "city": "MIDDLETOWN",
+            "zip": 10941,
+            "street": "SANDS RD",
+            "number": 224
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8356e"
+        },
+        "id": "10772-2015-CMPL",
+        "certificate_number": 9304859,
+        "business_name": "AWNING SERVICES",
+        "date": "Nov  4 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11207,
+            "street": "PENNSYLVANIA AVE",
+            "number": 450
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8356f"
+        },
+        "id": "108-2015-UNIT",
+        "certificate_number": 10003472,
+        "business_name": "BOMBSHELL TOWING LLC",
+        "date": "May 15 2015",
+        "result": "Pass",
+        "sector": "Tow Truck Company - 124",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83570"
+        },
+        "id": "108-2015-UNIT",
+        "certificate_number": 10003581,
+        "business_name": "BOMBSHELL TOWING LLC",
+        "date": "Oct  9 2015",
+        "result": "Pass",
+        "sector": "Tow Truck Company - 124",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83571"
+        },
+        "id": "10905-2015-ENFO",
+        "certificate_number": 3019431,
+        "business_name": "AMERICAN AIRLINES PRIORITY DEPT.",
+        "date": "Feb 25 2015",
+        "result": "Pass",
+        "sector": "Scale Dealer/Repairer - 107",
+        "address": {
+            "city": "FLUSHING",
+            "zip": 11371,
+            "street": "MAIN TERMINAL",
+            "number": 1
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83572"
+        },
+        "id": "1085-2016-ENFO",
+        "certificate_number": 9319055,
+        "business_name": "QADIR AHMAD",
+        "date": "Dec 23 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11218,
+            "street": "DORCHESTER RD",
+            "number": 1107
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83573"
+        },
+        "id": "10996-2015-CMPL",
+        "certificate_number": 9304815,
+        "business_name": "UNNAMED MOBILE FOOD CART  LICENSE TA00845",
+        "date": "Aug 19 2015",
+        "result": "Unable to Locate",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83574"
+        },
+        "id": "11031-2015-ENFO",
+        "certificate_number": 9258917,
+        "business_name": "GREENPOINT BARGAINS, INC",
+        "date": "Mar  3 2015",
+        "result": "Closed",
+        "sector": "Secondhand Dealer [General] - 006",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": "",
+            "street": "MCGUINESS BLVD",
+            "number": 211
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83575"
+        },
+        "id": "11049-2015-CMPL",
+        "certificate_number": 5393007,
+        "business_name": "BEST FOR LESS CONSTRUCTUIN",
+        "date": "Dec 16 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10033,
+            "street": "AUDUBON AVE",
+            "number": 215
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83576"
+        },
+        "id": "11113-2015-CMPL",
+        "certificate_number": 9304862,
+        "business_name": "XOCHITL CONSTRUCTION CORP",
+        "date": "Nov 27 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "JAMAICA",
+            "zip": 11436,
+            "street": "116TH AVE",
+            "number": 14809
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83577"
+        },
+        "id": "11114-2015-ENFO",
+        "certificate_number": 9308677,
+        "business_name": "NEW YORK CONSTRUCTION 69 CO., INC.",
+        "date": "Aug 25 2015",
+        "result": "No Evidence of Activity",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "OZONE PARK",
+            "zip": 11416,
+            "street": "ATLANTIC AVE",
+            "number": 10002
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83578"
+        },
+        "id": "1112-2016-ENFO",
+        "certificate_number": 9319053,
+        "business_name": "SAMER EKAD",
+        "date": "Dec 23 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11209,
+            "street": "77TH ST",
+            "number": 571
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83579"
+        },
+        "id": "11185-2015-ENFO",
+        "certificate_number": 9287719,
+        "business_name": "RITE AID OF NEW YORK, INC.",
+        "date": "Mar  2 2015",
+        "result": "No Violation Issued",
+        "sector": "Cigarette Retail Dealer - 127",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10025,
+            "street": "COLUMBUS AVE",
+            "number": 741
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8357a"
+        },
+        "id": "1120-2014-CMPL",
+        "certificate_number": 9272436,
+        "business_name": "BED BATH \u0026 BEYOND INC",
+        "date": "May  8 2015",
+        "result": "No Violation Issued",
+        "sector": "Misc Non-Food Retail - 817",
+        "address": {
+            "city": "EAST ELMHURST",
+            "zip": 11370,
+            "street": "25TH AVE",
+            "number": 7215
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8357b"
+        },
+        "id": "11201-2015-ENFO",
+        "certificate_number": 9278356,
+        "business_name": "TEN KESEF II, INC.",
+        "date": "Feb  3 2015",
+        "result": "No Violation Issued",
+        "sector": "Misc Non-Food Retail - 817",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11234,
+            "street": "FLATBUSH AVE",
+            "number": 5352
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8357c"
+        },
+        "id": "11220-2015-ENFO",
+        "certificate_number": 3019071,
+        "business_name": "BOGOPA, INC",
+        "date": "Feb 10 2015",
+        "result": "Pass",
+        "sector": "Supermarket - 819",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11237,
+            "street": "RIDGEWOOD PL",
+            "number": 1759
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8357d"
+        },
+        "id": "11222-2015-ENFO",
+        "certificate_number": 5376973,
+        "business_name": "BOGOPA, INC",
+        "date": "Feb 19 2015",
+        "result": "Violation Issued",
+        "sector": "Supermarket - 819",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11237,
+            "street": "RIDGEWOOD PL",
+            "number": 1759
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8357e"
+        },
+        "id": "11247-2015-ENFO",
+        "certificate_number": 3019422,
+        "business_name": "SPRAGUE OPERATING RESOURCES LLC.",
+        "date": "Mar  3 2015",
+        "result": "Fail",
+        "sector": "Fuel Oil Dealer - 814",
+        "address": {
+            "city": "LAWRENCE",
+            "zip": 11559,
+            "street": "BAY BLVD",
+            "number": 1
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8357f"
+        },
+        "id": "11248-2015-CMPL",
+        "certificate_number": 5381186,
+        "business_name": "SCS COATING CONTRACTORS LLC",
+        "date": "Oct  6 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "JAMAICA",
+            "zip": 11432,
+            "street": "HENLEY RD",
+            "number": 17259
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83580"
+        },
+        "id": "11260-2015-CMPL",
+        "certificate_number": 9304146,
+        "business_name": "NOOR SHARIFI",
+        "date": "Jul 20 2015",
+        "result": "Warning",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "FLUSHING",
+            "zip": 11354,
+            "street": "35TH AVE",
+            "number": 14715
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83581"
+        },
+        "id": "11336-2015-CMPL",
+        "certificate_number": 5381313,
+        "business_name": "ABDELNABY ELSAYED",
+        "date": "Aug 19 2015",
+        "result": "Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "ASTORIA",
+            "zip": 11103,
+            "street": "44TH ST",
+            "number": 2539
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83582"
+        },
+        "id": "11341-2015-CMPL",
+        "certificate_number": 9304848,
+        "business_name": "UNNAMED FOOD CART VENDOR   LICENSE # C2766",
+        "date": "Aug 26 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83583"
+        },
+        "id": "11342-2015-ENFO",
+        "certificate_number": 3019116,
+        "business_name": "MIMI'S HUMMUS INC",
+        "date": "Mar  4 2015",
+        "result": "Pass",
+        "sector": "Grocery-Retail - 808",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11218,
+            "street": "CORTELYOU ROAD",
+            "number": 1211
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83584"
+        },
+        "id": "11364-2015-CMPL",
+        "certificate_number": 5393050,
+        "business_name": "MINORITY BLACK CONTRACTORS/24MBC",
+        "date": "Dec 24 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11238,
+            "street": "PROSPECT PL",
+            "number": 399
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83585"
+        },
+        "id": "1148-2016-ENFO",
+        "certificate_number": 9318852,
+        "business_name": "INWOOD SECURITY ALARM, INC",
+        "date": "Dec 28 2015",
+        "result": "No Violation Issued",
+        "sector": "Locksmith - 062",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10034,
+            "street": "W 207TH ST",
+            "number": "604A"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83586"
+        },
+        "id": "115-2015-UNIT",
+        "certificate_number": 10005784,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "May 20 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83587"
+        },
+        "id": "11523-2015-CMPL",
+        "certificate_number": 9304861,
+        "business_name": "EXPERT FINISHING",
+        "date": "Nov 24 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10040,
+            "street": "W 190TH ST",
+            "number": 562
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83588"
+        },
+        "id": "11537-2015-ENFO",
+        "certificate_number": 9295013,
+        "business_name": "SIMPLEX OF MIDDLE VILLAGE, INC.",
+        "date": "Mar  4 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "MIDDLE VLG",
+            "zip": 11379,
+            "street": "METROPOLITAN AVE",
+            "number": 7510
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83589"
+        },
+        "id": "11525-2015-ENFO",
+        "certificate_number": 5373991,
+        "business_name": "FOOD GOURMET DELI-GROCERY, INC.",
+        "date": "Mar  4 2015",
+        "result": "Violation Issued",
+        "sector": "Cigarette Retail Dealer - 127",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10040,
+            "street": "W 189TH ST",
+            "number": 570
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8358a"
+        },
+        "id": "11623-2015-CMPL",
+        "certificate_number": 5384531,
+        "business_name": "LIBERTY CONSTRUCTION",
+        "date": "Dec  1 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11234,
+            "street": "E 58TH ST",
+            "number": 1543
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8358b"
+        },
+        "id": "11690-2015-ENFO",
+        "certificate_number": 3019424,
+        "business_name": "WILFREDO DELIVERY SERVICE INC",
+        "date": "Mar  6 2015",
+        "result": "Fail",
+        "sector": "Fuel Oil Dealer - 814",
+        "address": {
+            "city": "WADING RIVER",
+            "zip": 11792,
+            "street": "WADING RIVER MANOR RD",
+            "number": 1607
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8358c"
+        },
+        "id": "11724-2015-ENFO",
+        "certificate_number": 70025650,
+        "business_name": "FAMOUS NEW YORK DELI INC",
+        "date": "Mar  8 2015",
+        "result": "Violation Issued",
+        "sector": "Cigarette Retail Dealer - 127",
+        "address": {
+            "city": "JAMAICA",
+            "zip": 11434,
+            "street": "GY BREWER BLVD",
+            "number": 13742
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8358d"
+        },
+        "id": "11815-2015-ENFO",
+        "certificate_number": 3019426,
+        "business_name": "WILFREDO DELIVERY SERVICE INC",
+        "date": "Mar 10 2015",
+        "result": "Pass",
+        "sector": "Fuel Oil Dealer - 814",
+        "address": {
+            "city": "WADING RIVER",
+            "zip": 11792,
+            "street": "WADING RIVER MANOR RD",
+            "number": 1607
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8358e"
+        },
+        "id": "11896-2015-ENFO",
+        "certificate_number": 3019457,
+        "business_name": "SPRAGUE OPERATING RESOURCES LLC.",
+        "date": "Mar 11 2015",
+        "result": "Pass",
+        "sector": "Fuel Oil Dealer - 814",
+        "address": {
+            "city": "LAWRENCE",
+            "zip": 11559,
+            "street": "BAY BLVD",
+            "number": 1
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8358f"
+        },
+        "id": "11908-2015-ENFO",
+        "certificate_number": 3019434,
+        "business_name": "SPRAGUE OPERATING RESOURCES LLC.",
+        "date": "Mar 11 2015",
+        "result": "Pass",
+        "sector": "Gasoline Truck-Retail - 822",
+        "address": {
+            "city": "LAWRENCE",
+            "zip": 11559,
+            "street": "BAY BLVD",
+            "number": 1
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83590"
+        },
+        "id": "11929-2015-CMPL",
+        "certificate_number": 5381314,
+        "business_name": "SAIFULI MONJU",
+        "date": "Aug 26 2015",
+        "result": "Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "ELMHURST",
+            "zip": 11373,
+            "street": "BROADWAY",
+            "number": 8020
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83591"
+        },
+        "id": "11964-2015-CMPL",
+        "certificate_number": 9303720,
+        "business_name": "Smiley's Produce  Mobile Vendor License # 01315",
+        "date": "Aug 28 2015",
+        "result": "Closed",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83592"
+        },
+        "id": "11970-2015-ASLS",
+        "certificate_number": 10005705,
+        "business_name": "ROYAL SEAFOOD OF BBA, INC.",
+        "date": "Sep  2 2015",
+        "result": "Pass",
+        "sector": "Stoop Line Stand - 033",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11235,
+            "street": "OCEAN PKWY",
+            "number": 3100
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83593"
+        },
+        "id": "11666-2015-CMPL",
+        "certificate_number": 5381174,
+        "business_name": "REMARK HOME IMPROVEMENT",
+        "date": "Sep  1 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "SOUTH RICHMOND HILL",
+            "zip": 11419,
+            "street": "123RD ST",
+            "number": 10718
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83594"
+        },
+        "id": "12003-2015-CMPL",
+        "certificate_number": 5381876,
+        "business_name": "ELSAMANODY TAMER",
+        "date": "Aug 27 2015",
+        "result": "Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "ASTORIA",
+            "zip": 11106,
+            "street": "35TH ST",
+            "number": 3520
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83595"
+        },
+        "id": "12010-2015-ENFO",
+        "certificate_number": 3019438,
+        "business_name": "SPRAGUE OPERATING RESOURCES LLC.",
+        "date": "Mar 12 2015",
+        "result": "Pass",
+        "sector": "Gasoline Truck-Retail - 822",
+        "address": {
+            "city": "LAWRENCE",
+            "zip": 11559,
+            "street": "BAY BLVD",
+            "number": 1
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83596"
+        },
+        "id": "1205-2015-CMPL",
+        "certificate_number": 5346922,
+        "business_name": "THE WAY FOR VETERANS CONTACTING COMPANY LLC.",
+        "date": "Jun  2 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BRONX",
+            "zip": 10454,
+            "street": "LINCOLN AVE",
+            "number": 199
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83597"
+        },
+        "id": "12067-2015-CMPL",
+        "certificate_number": 9306535,
+        "business_name": "SABRETT HOT DOG STAND  NO LICENSE NUMBER PROVIDED",
+        "date": "Sep 21 2015",
+        "result": "Unable to Locate",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83598"
+        },
+        "id": "121-2015-UNIT",
+        "certificate_number": 10005843,
+        "business_name": "Yakov And Sons Cash For Cars llc",
+        "date": "Jun  9 2015",
+        "result": "Pass",
+        "sector": "Tow Truck Company - 124",
+        "address": {
+            "city": "Highland",
+            "zip": 12528,
+            "street": "Cummings Lane",
+            "number": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83599"
+        },
+        "id": "12134-2015-ENFO",
+        "certificate_number": 3017027,
+        "business_name": "MD A RAHIM",
+        "date": "Mar 12 2015",
+        "result": "Pass",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "WOODSIDE",
+            "zip": 11377,
+            "street": "WOODSIDE AVE",
+            "number": 6107
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8359a"
+        },
+        "id": "1217-2015-ENFO",
+        "certificate_number": 3030371,
+        "business_name": "SPRAGUE OPERATING RESOURCES LLC.",
+        "date": "Jan  8 2015",
+        "result": "Pass",
+        "sector": "Fuel Oil Dealer - 814",
+        "address": {
+            "city": "LAWRENCE",
+            "zip": 11559,
+            "street": "BAY BLVD",
+            "number": 1
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8359b"
+        },
+        "id": "12172-2015-CMPL",
+        "certificate_number": 5381195,
+        "business_name": "TSA CONSTRUCTION LLC",
+        "date": "Dec  1 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11228,
+            "street": "7TH AVE",
+            "number": 8404
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8359c"
+        },
+        "id": "12176-2015-ENFO",
+        "certificate_number": 3017177,
+        "business_name": "BABUL MOHAMMED",
+        "date": "Mar  9 2015",
+        "result": "Pass",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "BRONX",
+            "zip": 10452,
+            "street": "WALTON AVE",
+            "number": 1155
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8359d"
+        },
+        "id": "12199-2015-CMPL",
+        "certificate_number": 5393008,
+        "business_name": "T.H. CONSTRUCTION CO.",
+        "date": "Dec 17 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11219,
+            "street": "38TH ST",
+            "number": 1056
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8359e"
+        },
+        "id": "12251-2015-ENFO",
+        "certificate_number": 9289401,
+        "business_name": "HAMZA CHALABI",
+        "date": "Mar  5 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "MNAHTTAN",
+            "zip": 10012,
+            "street": "",
+            "number": "S/W/C"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a8359f"
+        },
+        "id": "12287-2015-ENFO",
+        "certificate_number": 9289400,
+        "business_name": "EL HASSANE OUCHANI",
+        "date": "Mar  5 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "MANHTTAN",
+            "zip": 10012,
+            "street": "",
+            "number": "N/W/C"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835a0"
+        },
+        "id": "12382-2015-ENFO",
+        "certificate_number": 3018627,
+        "business_name": "FAMILY DOLLAR STORES OF NEW YORK, INC.",
+        "date": "Mar  4 2015",
+        "result": "Pass",
+        "sector": "Misc Non-Food Retail - 817",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11208,
+            "street": "ATLANTIC AVE",
+            "number": 3382
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835a1"
+        },
+        "id": "12422-2015-CMPL",
+        "certificate_number": 5381190,
+        "business_name": "PAT PELLEGRINI FLOORING CORPORATION",
+        "date": "Nov 24 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "LONG IS CITY",
+            "zip": 11101,
+            "street": "11TH ST",
+            "number": 4230
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835a2"
+        },
+        "id": "12439-2015-CMPL",
+        "certificate_number": 9304850,
+        "business_name": "UNNAMED AND NO LICENSE # PROVIDED VENDOR",
+        "date": "Aug 27 2015",
+        "result": "No Evidence of Activity",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835a3"
+        },
+        "id": "12509-2015-CMPL",
+        "certificate_number": 5381194,
+        "business_name": "R. POL. CUSTOM FURNITURE",
+        "date": "Nov 24 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11215,
+            "street": "9TH ST",
+            "number": 69
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835a4"
+        },
+        "id": "12549-2015-CMPL",
+        "certificate_number": 5381193,
+        "business_name": "SECOND GENERATION STAIRS, LLC",
+        "date": "Nov 24 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "STATEN ISLAND",
+            "zip": 10308,
+            "street": "WILLOW WOOD LN",
+            "number": 63
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835a5"
+        },
+        "id": "12552-2015-ENFO",
+        "certificate_number": 9287545,
+        "business_name": "HANY SAIF",
+        "date": "Mar  6 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "MANHTTAN",
+            "zip": 10027,
+            "street": "",
+            "number": "S/W/C"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835a6"
+        },
+        "id": "12587-2015-ENFO",
+        "certificate_number": 9280119,
+        "business_name": "MASTER WINDOW REPAIR, INC.",
+        "date": "Mar 10 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11230,
+            "street": "CONEY ISLAND AVE",
+            "number": 1740
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835a7"
+        },
+        "id": "12600-2015-ENFO",
+        "certificate_number": 3019463,
+        "business_name": "FIVE BROTHERS TRUCKING CORP",
+        "date": "Mar 13 2015",
+        "result": "Pass",
+        "sector": "Gov'T Agency Retail - 824",
+        "address": {
+            "city": "NEW HYDE PARK",
+            "zip": 11040,
+            "street": "FALMOUTH AVE",
+            "number": 1818
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835a8"
+        },
+        "id": "12658-2015-ENFO",
+        "certificate_number": 9287544,
+        "business_name": "ABDUL M NOORZAD",
+        "date": "Mar  6 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "FLUSHING",
+            "zip": 11355,
+            "street": "58TH RD",
+            "number": 13215
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835a9"
+        },
+        "id": "12663-2015-ENFO",
+        "certificate_number": 9287543,
+        "business_name": "ABDUL K NOORZAD",
+        "date": "Mar  6 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "FLUSHING",
+            "zip": 11355,
+            "street": "",
+            "number": "132-15"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835aa"
+        },
+        "id": "12695-2015-CMPL",
+        "certificate_number": 9303190,
+        "business_name": "SHENODA AZIZ",
+        "date": "Jul 31 2015",
+        "result": "Warning",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "RIDGEWOOD",
+            "zip": 11385,
+            "street": "WOODWARD AVE",
+            "number": 610
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835ab"
+        },
+        "id": "12703-2015-CMPL",
+        "certificate_number": 9304826,
+        "business_name": "UNNAMED MOBILE FOOD VENDOR LICENSE # CA01775",
+        "date": "Aug 20 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835ac"
+        },
+        "id": "12710-2015-CMPL",
+        "certificate_number": 5381500,
+        "business_name": "AIMAN YOUSSEF",
+        "date": "Aug  6 2015",
+        "result": "Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10027,
+            "street": "W 126TH ST",
+            "number": 361
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835ad"
+        },
+        "id": "12779-2015-ENFO",
+        "certificate_number": 3019441,
+        "business_name": "UNLIMITED TRUCKING CORP.",
+        "date": "Mar 17 2015",
+        "result": "Fail",
+        "sector": "Fuel Oil Dealer - 814",
+        "address": {
+            "city": "EAST MEADOW",
+            "zip": 11554,
+            "street": "NEWBRIDGE RD",
+            "number": 361
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835ae"
+        },
+        "id": "12787-2015-ENFO",
+        "certificate_number": 3019443,
+        "business_name": "SPRAGUE OPERATING RESOURCES LLC.",
+        "date": "Mar 17 2015",
+        "result": "Pass",
+        "sector": "Fuel Oil Dealer - 814",
+        "address": {
+            "city": "LAWRENCE",
+            "zip": 11559,
+            "street": "BAY BLVD",
+            "number": 1
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835af"
+        },
+        "id": "129-2015-UNIT",
+        "certificate_number": 10005852,
+        "business_name": "CLASS A RECOVERY INC",
+        "date": "Jun  9 2015",
+        "result": "Pass",
+        "sector": "Tow Truck Company - 124",
+        "address": {
+            "city": "NEW ROCHELLE",
+            "zip": 10801,
+            "street": "MAIN ST",
+            "number": 212
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835b0"
+        },
+        "id": "12900-2015-CMPL",
+        "certificate_number": 5387918,
+        "business_name": "GREGORY WHITE",
+        "date": "Sep 18 2015",
+        "result": "Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "BRONX",
+            "zip": 10473,
+            "street": "BRUCKNER BLVD",
+            "number": 1760
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835b1"
+        },
+        "id": "12933-2015-ENFO",
+        "certificate_number": 3020031,
+        "business_name": "BARI PORK STORE OF AVENUE U INC",
+        "date": "Mar 11 2015",
+        "result": "Pass",
+        "sector": "Grocery-Retail - 808",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11223,
+            "street": "AVENUE U",
+            "number": 158
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835b2"
+        },
+        "id": "12947-2015-ENFO",
+        "certificate_number": 5348393,
+        "business_name": "COLOMBIA TOWING 1 LLC",
+        "date": "Mar 23 2015",
+        "result": "Violation Issued",
+        "sector": "Tow Truck Company - 124",
+        "address": {
+            "city": "NEW YORK",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835b3"
+        },
+        "id": "13-2015-UNIT",
+        "certificate_number": 10005765,
+        "business_name": "SPANKY'S ASSET RECOVERY INC.",
+        "date": "Jan 20 2015",
+        "result": "Pass",
+        "sector": "Tow Truck Company - 124",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835b4"
+        },
+        "id": "13081-2015-ENFO",
+        "certificate_number": 9295442,
+        "business_name": "ATHENS WOODWORKING INC.",
+        "date": "Mar 10 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "OZONE PARK",
+            "zip": 11417,
+            "street": "ROCKAWAY BLVD",
+            "number": 10002
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835b5"
+        },
+        "id": "13093-2015-CMPL",
+        "certificate_number": 9305721,
+        "business_name": "UNNAMED FOOD CART  CART # 01868",
+        "date": "Sep  2 2015",
+        "result": "Unable to Locate",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835b6"
+        },
+        "id": "13120-2015-ENFO",
+        "certificate_number": 9287527,
+        "business_name": "BABUL MOHAMMED",
+        "date": "Mar  9 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "BRONX",
+            "zip": 10452,
+            "street": "WALTON AVE",
+            "number": 1155
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835b7"
+        },
+        "id": "13123-2015-ENFO",
+        "certificate_number": 9287727,
+        "business_name": "MOAWAD",
+        "date": "Mar  9 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "RIDGEWOOD",
+            "zip": 11385,
+            "street": "PALMETTO ST",
+            "number": 1911
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835b8"
+        },
+        "id": "13193-2015-ENFO",
+        "certificate_number": 9279154,
+        "business_name": "CONTE CARPET, INC.",
+        "date": "Mar 12 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11234,
+            "street": "AVENUE L",
+            "number": 5008
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835b9"
+        },
+        "id": "132-2014-UNIT",
+        "certificate_number": 10021183,
+        "business_name": "WRECK O MEND AUTO EXPERTS CORP",
+        "date": "Jun 18 2015",
+        "result": "Pass",
+        "sector": "Tow Truck Company - 124",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835ba"
+        },
+        "id": "1327-2015-ENFO",
+        "certificate_number": 3030372,
+        "business_name": "UNLIMITED TRUCKING CORP.",
+        "date": "Jan  9 2015",
+        "result": "Pass",
+        "sector": "Fuel Oil Dealer - 814",
+        "address": {
+            "city": "EAST MEADOW",
+            "zip": 11554,
+            "street": "NEWBRIDGE RD",
+            "number": 361
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835bb"
+        },
+        "id": "133-2015-UNIT",
+        "certificate_number": 10005926,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Jun 16 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835bc"
+        },
+        "id": "13367-2015-ENFO",
+        "certificate_number": 9284339,
+        "business_name": "HERNANDEZ, ASDRUBAI",
+        "date": "Mar 17 2015",
+        "result": "No Violation Issued",
+        "sector": "Locksmith - 062",
+        "address": {
+            "city": "BRONX",
+            "zip": 10461,
+            "street": "HALPERIN AVE",
+            "number": 2617
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835bd"
+        },
+        "id": "13395-2015-CMPL",
+        "certificate_number": 9304856,
+        "business_name": "AKHTAR CONSTRUCTION CONCEPTS",
+        "date": "Sep 29 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11218,
+            "street": "CONEY ISLAND AVE",
+            "number": 620
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835be"
+        },
+        "id": "13418-2015-ENFO",
+        "certificate_number": 3017103,
+        "business_name": "FANTA PATHE GAMBY",
+        "date": "Mar 18 2015",
+        "result": "Pass",
+        "sector": "Grocery-Retail - 808",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10027,
+            "street": "A C P JR BLVD",
+            "number": 2041
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835bf"
+        },
+        "id": "13550-2015-ENFO",
+        "certificate_number": 5353912,
+        "business_name": "WI SERVICES, INC.",
+        "date": "Mar 17 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "FLUSHING",
+            "zip": 11354,
+            "street": "NORTHERN BLVD",
+            "number": 14408
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835c0"
+        },
+        "id": "1358-2015-ENFO",
+        "certificate_number": 70025240,
+        "business_name": "LEE, CHEON O.",
+        "date": "Jan 11 2015",
+        "result": "Violation Issued",
+        "sector": "Cigarette Retail Dealer - 127",
+        "address": {
+            "city": "BRONX",
+            "zip": 10461,
+            "street": "WESTCHESTER SQ",
+            "number": 36
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835c1"
+        },
+        "id": "13597-2015-ENFO",
+        "certificate_number": 70025907,
+        "business_name": "7 Eleven, Inc.",
+        "date": "Mar 20 2015",
+        "result": "Violation Issued",
+        "sector": "Cigarette Retail Dealer - 127",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10016,
+            "street": "3RD AVE",
+            "number": 478
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835c2"
+        },
+        "id": "13644-2015-ENFO",
+        "certificate_number": 5351758,
+        "business_name": "FANTA PATHE GAMBY",
+        "date": "Mar 13 2015",
+        "result": "Violation Issued",
+        "sector": "Grocery-Retail - 808",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10027,
+            "street": "A C P JR BLVD",
+            "number": 2041
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835c3"
+        },
+        "id": "13652-2015-ENFO",
+        "certificate_number": 5351757,
+        "business_name": "FANTA HAIR BRAIDING",
+        "date": "Mar 13 2015",
+        "result": "Violation Issued",
+        "sector": "Salons And Barbershop - 841",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10027,
+            "street": "A C P JR BLVD",
+            "number": 2041
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835c4"
+        },
+        "id": "13685-2015-CMPL",
+        "certificate_number": 5393053,
+        "business_name": "ALBANDIK CONTRACTING",
+        "date": "Dec 29 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11219,
+            "street": "64TH ST",
+            "number": 1148
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835c5"
+        },
+        "id": "13687-2015-CMPL",
+        "certificate_number": 5393055,
+        "business_name": "LESLIE JAMES CONTRACTING",
+        "date": "Dec 29 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11210,
+            "street": "NOSTRAND AVE",
+            "number": 1964
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835c6"
+        },
+        "id": "13780-2015-ENFO",
+        "certificate_number": 9280376,
+        "business_name": "B. TOWER CONTRACTING CORP.",
+        "date": "Apr  9 2015",
+        "result": "No Evidence of Activity",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11218,
+            "street": "MCDONALD AVE",
+            "number": 906
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835c7"
+        },
+        "id": "13798-2015-ENFO",
+        "certificate_number": 9284503,
+        "business_name": "AYAD, HANY",
+        "date": "Mar 16 2015",
+        "result": "No Evidence of Activity",
+        "sector": "Locksmith - 062",
+        "address": {
+            "city": "BRONX",
+            "zip": 10467,
+            "street": "E GUN HILL RD",
+            "number": 171
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835c8"
+        },
+        "id": "138-2015-UNIT",
+        "certificate_number": 10022198,
+        "business_name": "ULTIMATE COLLISION \u0026 TOWING INC",
+        "date": "Jun 18 2015",
+        "result": "Pass",
+        "sector": "Tow Truck Company - 124",
+        "address": {
+            "city": "STATEN ISLAND",
+            "zip": 10303,
+            "street": "WINANT PL",
+            "number": 38
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835c9"
+        },
+        "id": "1383-2015-CMPL",
+        "certificate_number": 9284505,
+        "business_name": "E-ONE CORPORATION",
+        "date": "Apr 29 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "STATEN ISLAND",
+            "zip": 10308,
+            "street": "GIFFORDS LN",
+            "number": 154
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835ca"
+        },
+        "id": "13854-2015-CMPL",
+        "certificate_number": 9304086,
+        "business_name": "MAIN STREET PEDICAB INC",
+        "date": "Sep 11 2015",
+        "result": "Unable to Locate",
+        "sector": "Pedicab Driver - 131",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835cb"
+        },
+        "id": "13856-2015-ENFO",
+        "certificate_number": 3019445,
+        "business_name": "SPRAGUE OPERATING RESOURCES LLC.",
+        "date": "Mar 18 2015",
+        "result": "Pass",
+        "sector": "Gasoline Truck-Retail - 822",
+        "address": {
+            "city": "LAWRENCE",
+            "zip": 11559,
+            "street": "BAY BLVD",
+            "number": 1
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835cc"
+        },
+        "id": "13883-2015-ENFO",
+        "certificate_number": 9289428,
+        "business_name": "ELAN 1 CONSTRUCTION CORP",
+        "date": "Mar 12 2015",
+        "result": "No Evidence of Activity",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "STATEN ISLAND",
+            "zip": 10305,
+            "street": "ALEX CIR",
+            "number": 25
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835cd"
+        },
+        "id": "13878-2015-ENFO",
+        "certificate_number": 3019446,
+        "business_name": "E.S.F. TRANSPORT INC",
+        "date": "Mar 18 2015",
+        "result": "Pass",
+        "sector": "Fuel Oil Dealer - 814",
+        "address": {
+            "city": "INWOOD",
+            "zip": 11096,
+            "street": "SHERIDAN BLVD",
+            "number": 1
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835ce"
+        },
+        "id": "139-2015-UNIT",
+        "certificate_number": 10022199,
+        "business_name": "ULTIMATE COLLISION \u0026 TOWING INC",
+        "date": "Jun 18 2015",
+        "result": "Pass",
+        "sector": "Tow Truck Company - 124",
+        "address": {
+            "city": "STATEN ISLAND",
+            "zip": 10303,
+            "street": "WINANT PL",
+            "number": 38
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835cf"
+        },
+        "id": "13908-2015-CMPL",
+        "certificate_number": 5381198,
+        "business_name": "C \u0026 H IRONWORKS LLC.",
+        "date": "Dec  1 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11216,
+            "street": "MONROE ST",
+            "number": 204
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835d0"
+        },
+        "id": "13944-2015-ENFO",
+        "certificate_number": 9287552,
+        "business_name": "RAMIREZ ALFREDO",
+        "date": "Mar 12 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "YONKERS",
+            "zip": 10705,
+            "street": "VALENTINE LN",
+            "number": 257
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835d1"
+        },
+        "id": "13974-2015-ENFO",
+        "certificate_number": 9283494,
+        "business_name": "JDR WINDOWS AND DOORS, INC",
+        "date": "Mar 17 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BRONX",
+            "zip": 10461,
+            "street": "E TREMONT AVE",
+            "number": 3164
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835d2"
+        },
+        "id": "14052-2015-CMPL",
+        "certificate_number": 5383921,
+        "business_name": "GREEN \u0026 RED PRODUCE CORP.",
+        "date": "Oct 26 2015",
+        "result": "Violation Issued",
+        "sector": "Stoop Line Stand - 033",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10017,
+            "street": "2ND AVE",
+            "number": 765
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835d3"
+        },
+        "id": "14103-2015-CMPL",
+        "certificate_number": 5381182,
+        "business_name": "THREE BROTHERS RESTORATION CONTRACTORS, INC",
+        "date": "Sep 29 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "LONG ISLAND CIT",
+            "zip": 11101,
+            "street": "BORDEN AVE",
+            "number": 2325
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835d4"
+        },
+        "id": "14105-2015-CMPL",
+        "certificate_number": 5393052,
+        "business_name": "P \u0026 B PAINTING",
+        "date": "Dec 29 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "STATEN ISLAND",
+            "zip": 10302,
+            "street": "NEWARK AVE",
+            "number": 67
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835d5"
+        },
+        "id": "14108-2015-ENFO",
+        "certificate_number": 9279299,
+        "business_name": "ATHENS WOODWORKING INC.",
+        "date": "Mar 21 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11201,
+            "street": "SMITH ST",
+            "number": 31
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835d6"
+        },
+        "id": "14186-2015-ENFO",
+        "certificate_number": 70025940,
+        "business_name": "NIN GROCERY CORP",
+        "date": "Mar 21 2015",
+        "result": "Violation Issued",
+        "sector": "Cigarette Retail Dealer - 127",
+        "address": {
+            "city": "BRONX",
+            "zip": 10456,
+            "street": "E 169TH ST",
+            "number": 555
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835d7"
+        },
+        "id": "14342-2015-ENFO",
+        "certificate_number": 9289166,
+        "business_name": "WILD BLUE ORCHID, INC.",
+        "date": "Mar 16 2015",
+        "result": "No Violation Issued",
+        "sector": "Sidewalk Cafe - 013",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10026,
+            "street": "FRDRCK DGLS BLVD",
+            "number": 2217
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835d8"
+        },
+        "id": "14348-2015-ENFO",
+        "certificate_number": 9287554,
+        "business_name": "CHARLES H SANDIDGE",
+        "date": "Mar 12 2015",
+        "result": "No Violation Issued",
+        "sector": "Locksmith - 062",
+        "address": {
+            "city": "TEANECK",
+            "zip": 7666,
+            "street": "E TRYON AVE",
+            "number": 191
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835d9"
+        },
+        "id": "144-2014-UNIT",
+        "certificate_number": 9299692,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Apr 10 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835da"
+        },
+        "id": "144-2014-UNIT",
+        "certificate_number": 9305897,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Aug 20 2015",
+        "result": "Re-inspection",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835db"
+        },
+        "id": "144-2015-UNIT",
+        "certificate_number": 10021205,
+        "business_name": "CHAZYYEV, ROVSHAN",
+        "date": "Jun 24 2015",
+        "result": "Pass",
+        "sector": "Pedicab Business - 130",
+        "address": {
+            "city": "CORONA",
+            "zip": 11368,
+            "street": "HRCE HRDING EXPY",
+            "number": 9825
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835dc"
+        },
+        "id": "14460-2015-ENFO",
+        "certificate_number": 3019471,
+        "business_name": "UNLIMITED TRUCKING CORP",
+        "date": "Mar 20 2015",
+        "result": "Pass",
+        "sector": "Fuel Oil Dealer - 814",
+        "address": {
+            "city": "EAST MEADOW",
+            "zip": 11554,
+            "street": "NEWBRIDGE RD",
+            "number": 361
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835dd"
+        },
+        "id": "14471-2015-ENFO",
+        "certificate_number": 3019470,
+        "business_name": "UNLIMITED TRUCKING CORP",
+        "date": "Mar 20 2015",
+        "result": "Fail",
+        "sector": "Fuel Oil Dealer - 814",
+        "address": {
+            "city": "EAST MEADOW",
+            "zip": 11554,
+            "street": "NEWBRIDGE RD",
+            "number": 361
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835de"
+        },
+        "id": "14475-2015-CMPL",
+        "certificate_number": 5393002,
+        "business_name": "AMERICAN MAINTENANCE TECHNOLOGY SERVICES",
+        "date": "Dec  7 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10030,
+            "street": "W 139TH ST",
+            "number": 262
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835df"
+        },
+        "id": "145-2014-UNIT",
+        "certificate_number": 9290599,
+        "business_name": "",
+        "date": "Apr 10 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835e0"
+        },
+        "id": "14481-2015-CMPL",
+        "certificate_number": 9304845,
+        "business_name": "UNNAMED AND NO LICENSE # PROVIDED VENDOR",
+        "date": "Aug 26 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835e1"
+        },
+        "id": "145-2014-UNIT",
+        "certificate_number": 9305881,
+        "business_name": "",
+        "date": "Aug 20 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835e2"
+        },
+        "id": "14524-2015-ENFO",
+        "certificate_number": 3019473,
+        "business_name": "SPRAGUE OPERATING RESOURCES LLC.",
+        "date": "Mar 23 2015",
+        "result": "Pass",
+        "sector": "Gasoline Truck-Retail - 822",
+        "address": {
+            "city": "LAWRENCE",
+            "zip": 11559,
+            "street": "BAY BLVD",
+            "number": 1
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835e3"
+        },
+        "id": "14547-2015-ENFO",
+        "certificate_number": 9287938,
+        "business_name": "HIC",
+        "date": "Mar 18 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "STATEN ISLAND",
+            "zip": 10314,
+            "street": "KLONDIKE AVE",
+            "number": 575
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835e4"
+        },
+        "id": "14540-2015-CMPL",
+        "certificate_number": 9304959,
+        "business_name": "MOHAMED AFIFI",
+        "date": "Sep 29 2015",
+        "result": "No Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "JERSEY CITY",
+            "zip": 7306,
+            "street": "MONTGOMERY ST",
+            "number": 763
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835e5"
+        },
+        "id": "14549-2015-ENFO",
+        "certificate_number": 9287939,
+        "business_name": "GOLDEN TOUCH REMODLING LLC",
+        "date": "Mar 18 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "STATEN ISLAND",
+            "zip": 10308,
+            "street": "NELSON AVE",
+            "number": 137
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835e6"
+        },
+        "id": "14590-2015-ENFO",
+        "certificate_number": 3011286,
+        "business_name": "LI TIM",
+        "date": "Mar 23 2015",
+        "result": "Pass",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11219,
+            "street": "BAY RIDGE AVE",
+            "number": 1268
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835e7"
+        },
+        "id": "146-2014-UNIT",
+        "certificate_number": 9300170,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Apr 10 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835e8"
+        },
+        "id": "146-2014-UNIT",
+        "certificate_number": 9305882,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Aug 20 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835e9"
+        },
+        "id": "14632-2015-ENFO",
+        "certificate_number": 9289157,
+        "business_name": "COPY SOLUTIONS INC",
+        "date": "Mar 13 2015",
+        "result": "Out of Business",
+        "sector": "Misc Non-Food Retail - 817",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10027,
+            "street": "A C P JR BLVD",
+            "number": 2023
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835ea"
+        },
+        "id": "14644-2015-ENFO",
+        "certificate_number": 9287935,
+        "business_name": "G \u0026 S STRICTLY INGROUND POOLS AND SPAS, INC.",
+        "date": "Mar 18 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "STATEN ISLAND",
+            "zip": 10312,
+            "street": "RICHMOND AVE",
+            "number": 3285
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835eb"
+        },
+        "id": "14651-2015-CMPL",
+        "certificate_number": 5393054,
+        "business_name": "BIG JOE'S GENERAL RENOVATION \u0026 REMODELING CORP.",
+        "date": "Dec 29 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10002,
+            "street": "CLINTON ST",
+            "number": 87
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835ec"
+        },
+        "id": "147-2014-UNIT",
+        "certificate_number": 9299693,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Apr 10 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835ed"
+        },
+        "id": "14674-2015-ENFO",
+        "certificate_number": 9289281,
+        "business_name": "AOA NEWSSTAND LLC",
+        "date": "Mar 19 2015",
+        "result": "No Violation Issued",
+        "sector": "Cigarette Retail Dealer - 127",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10019,
+            "street": "AVE OF TH AMER",
+            "number": 1285
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835ee"
+        },
+        "id": "147-2014-UNIT",
+        "certificate_number": 9305883,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Aug 20 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835ef"
+        },
+        "id": "147-2016-ENFO",
+        "certificate_number": 5390314,
+        "business_name": "MAHMOUD A MOHAMED ALI EID",
+        "date": "Dec 23 2015",
+        "result": "Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "JERSEY CITY",
+            "zip": 7306,
+            "street": "TONNELE AVE",
+            "number": 55
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835f0"
+        },
+        "id": "14754-2015-ENFO",
+        "certificate_number": 9287937,
+        "business_name": "GOLDEN TOUCH REMODELING LIMITED LIABILITY COMPANY",
+        "date": "Mar 19 2015",
+        "result": "Licensed",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "MATAWAN",
+            "zip": 7747,
+            "street": "HWY 516",
+            "number": 3983
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835f1"
+        },
+        "id": "148-2014-UNIT",
+        "certificate_number": 9300172,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Apr 10 2015",
+        "result": "Re-inspection",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835f2"
+        },
+        "id": "148-2014-UNIT",
+        "certificate_number": 9305893,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Aug 20 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835f3"
+        },
+        "id": "14822-2015-CMPL",
+        "certificate_number": 5381191,
+        "business_name": "BPS CONSTRUCTION \u0026 HOME IMPROVEMENT INC.",
+        "date": "Nov 24 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "SOUTH RICHMOND HILL",
+            "zip": 11419,
+            "street": "LIBERTY AVE",
+            "number": 11115
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835f4"
+        },
+        "id": "14863-2015-ENFO",
+        "certificate_number": 3036939,
+        "business_name": "ANJUMAN KABIR",
+        "date": "Mar 25 2015",
+        "result": "Pass",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "BRONX",
+            "zip": 10472,
+            "street": "LELAND AVE",
+            "number": 1202
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835f5"
+        },
+        "id": "149-2014-UNIT",
+        "certificate_number": 9299694,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Apr 10 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835f6"
+        },
+        "id": "149-2014-UNIT",
+        "certificate_number": 9305894,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Aug 20 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835f7"
+        },
+        "id": "1494-2015-ENFO",
+        "certificate_number": 5351231,
+        "business_name": "SEWILAM MOHAB A",
+        "date": "Jan  9 2015",
+        "result": "Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11236,
+            "street": "E 96TH ST",
+            "number": 1351
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835f8"
+        },
+        "id": "150-2014-UNIT",
+        "certificate_number": 9300171,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Apr 10 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835f9"
+        },
+        "id": "150-2014-UNIT",
+        "certificate_number": 9305891,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Aug 20 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835fa"
+        },
+        "id": "15019-2015-ENFO",
+        "certificate_number": 3036933,
+        "business_name": "RAPAPORT DIAMOND CORPORATION",
+        "date": "Mar 20 2015",
+        "result": "Pass",
+        "sector": "Secondhand Dealer [General] - 006",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10036,
+            "street": "AVE AMERICAS",
+            "number": 1212
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835fb"
+        },
+        "id": "15052-2015-ENFO",
+        "certificate_number": 3017113,
+        "business_name": "CATALINO ABREU",
+        "date": "Mar 20 2015",
+        "result": "Pass",
+        "sector": "Grocery-Retail - 808",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10026,
+            "street": "FRDRCK DGLS BLVD",
+            "number": 2051
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835fc"
+        },
+        "id": "151-2014-UNIT",
+        "certificate_number": 9299697,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Apr 10 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835fd"
+        },
+        "id": "151-2014-UNIT",
+        "certificate_number": 9305892,
+        "business_name": "RDSL URBAN NY LLC",
+        "date": "Aug 20 2015",
+        "result": "Pass",
+        "sector": "Sightseeing Bus - 078",
+        "address": {
+            "city": "",
+            "zip": "",
+            "street": "",
+            "number": ""
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835fe"
+        },
+        "id": "15228-2015-CMPL",
+        "certificate_number": 5381197,
+        "business_name": "C \u0026 R DURABLE HOME IMPROVEMENT",
+        "date": "Dec  1 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11233,
+            "street": "EASTERN PKWY",
+            "number": 1335
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a835ff"
+        },
+        "id": "15158-2015-ENFO",
+        "certificate_number": 9287589,
+        "business_name": "RODRIGUEZ, MARCOS",
+        "date": "Mar 19 2015",
+        "result": "No Violation Issued",
+        "sector": "Locksmith - 062",
+        "address": {
+            "city": "NEW YORK",
+            "zip": 10031,
+            "street": "W 145TH ST",
+            "number": 529
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83600"
+        },
+        "id": "15235-2015-ENFO",
+        "certificate_number": 3033775,
+        "business_name": "FEATHERBED LANE GROCERY CORP.",
+        "date": "Mar 24 2015",
+        "result": "Pass",
+        "sector": "Grocery-Retail - 808",
+        "address": {
+            "city": "BRONX",
+            "zip": 10452,
+            "street": "FEATHERBED LN",
+            "number": "117A"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83601"
+        },
+        "id": "15309-2015-ENFO",
+        "certificate_number": 5377674,
+        "business_name": "HAMDY BAYOUMY",
+        "date": "Mar 17 2015",
+        "result": "Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11209,
+            "street": "OVINGTON AVE",
+            "number": 506
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83602"
+        },
+        "id": "15310-2015-ENFO",
+        "certificate_number": 5345975,
+        "business_name": "GOLDEN STEEL INC",
+        "date": "Mar 24 2015",
+        "result": "Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "FLUSHING",
+            "zip": 11354,
+            "street": "COLLEGE POINT BLVD",
+            "number": 3401
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83603"
+        },
+        "id": "15344-2015-ENFO",
+        "certificate_number": 5377671,
+        "business_name": "IBRAHIM A. HEMEDA",
+        "date": "Mar 17 2015",
+        "result": "Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11209,
+            "street": "OVINGTON AVE",
+            "number": 237
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83604"
+        },
+        "id": "15478-2015-ENFO",
+        "certificate_number": 9280738,
+        "business_name": "COLELLA, GIOVANNI \u0026 PALUMBO, FRANK",
+        "date": "Mar 20 2015",
+        "result": "No Violation Issued",
+        "sector": "Home Improvement Contractor - 100",
+        "address": {
+            "city": "BROOKLYN",
+            "zip": 11223,
+            "street": "STILLWELL AVE",
+            "number": 1787
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83605"
+        },
+        "id": "15483-2015-CMPL",
+        "certificate_number": 5384495,
+        "business_name": "ASHRAF MOUSA",
+        "date": "Oct 23 2015",
+        "result": "Violation Issued",
+        "sector": "Mobile Food Vendor - 881",
+        "address": {
+            "city": "ASTORIA",
+            "zip": 11103,
+            "street": "46TH ST",
+            "number": 2859
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83606"
+        },
+        "id": "155-2015-UNIT",
+        "certificate_number": 10021214,
+        "business_name": "DANIEL, HENRY",
+        "date": "Jul  8 2015",
+        "result": "Pass",
+        "sector": "Pedicab Business - 130",
+        "address": {
+            "city": "CARTERSVILLE",
+            "zip": 30120,
+            "street": "BRENT CIR SW",
+            "number": 29
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83607"
+        },
+        "id": "15575-2015-ENFO",
+        "certificate_number": 9284357,
+        "business_name": "DONALD B LONGIARU",
+        "date": "Mar 19 2015",
+        "result": "No Violation Issued",
+        "sector": "Locksmith - 062",
+        "address": {
+            "city": "NEWTOWN",
+            "zip": 6470,
+            "street": "BRAMBLE TRL",
+            "number": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "56d61033a378eccde8a83608"
+        },
+        "id": "15594-2015-ENFO",
+        "certificate_number": 9284358,
+        "business_name": "CO-OP HAIR SALON INC.",
+        "date": "Mar 19 2015",
+        "result": "No Violation Issued",
+        "sector": "Salons And Barbershop - 841",
+        "address": {
+            "city": "BRONX",
+            "zip": 10475,
+            "street": "DREISER LOOP",
+            "number": "133A"
+        }
+    }
+]

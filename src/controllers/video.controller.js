@@ -90,6 +90,8 @@ const publishAVideo = asyncHandler(async (req, res) => {
     
     if( Object.keys(req.body).length === 0 || [title, description].some((field) => !field || field.trim() === "") ) {
         throw new ApiError(200, "All fields are required")
+        // res.status(200).json(new ApiError(200, "All fields are required"))
+
     }
     
     

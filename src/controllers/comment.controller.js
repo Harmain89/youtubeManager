@@ -1,8 +1,61 @@
+import mongoose from "mongoose";
 import { Comment } from "../models/comment.model.js";
+import { Video } from "../models/video.model.js";
 import { ApiError } from "../utils/ApiError.js";
 import { ApiResponse } from "../utils/ApiResponse.js";
 import { asyncHandler } from "../utils/asyncHandler.js";
 
+
+const getVideoComments = asyncHandler(async (req, res) => {
+    const { videoId } = req.params;
+    const { page = 1, limit = 10, sortBy = "CreatedAt", sortType = "desc" } = req.query;
+
+    if(!videoId) {
+        throw new ApiError(400, "videoId is required");
+    }
+
+    const sort = {};
+    sort[sortBy] = sortType === 'asc' ? 1 : -1;
+
+    const skip = (page - 1) * limit;
+
+
+    // Construct the aggregation pipelines
+    const pipeline = [];
+
+    pipeline.push({
+        $match: {
+            video: new mongoose.Types.ObjectId(videoId)
+        }
+    })
+
+    pipeline.push({
+        $skip: skip
+    })
+
+    pipeline.push({
+        $sort: sort
+    })
+
+    pipeline.push({
+        $limit: parseInt(limit)
+    })
+
+
+    
+    const $result = await Comment.aggregate(pipeline);
+
+    res.status(200).json(
+        new ApiResponse(200, $result, "Video Comments Fetched.")
+    )
+    // try {
+
+    // } catch (error) {
+    //     throw new ApiError(500, "Internal Server Error", error)
+    // }
+    
+    // console.log(videoId);
+})
 
 const addComment = asyncHandler(async (req, res) => {
     const { videoId } = req.params;
@@ -27,4 +80,4 @@ const addComment = asyncHandler(async (req, res) => {
 })
 
 
-export { addComment }
+export { getVideoComments, addComment }

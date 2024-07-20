@@ -43,16 +43,16 @@ const getVideoComments = asyncHandler(async (req, res) => {
 
 
     
-    const $result = await Comment.aggregate(pipeline);
-
-    res.status(200).json(
-        new ApiResponse(200, $result, "Video Comments Fetched.")
-    )
-    // try {
-
-    // } catch (error) {
-    //     throw new ApiError(500, "Internal Server Error", error)
-    // }
+    try {
+        const $result = await Comment.aggregate(pipeline);
+    
+        res.status(200).json(
+            new ApiResponse(200, $result, "Video Comments Fetched.")
+        )
+        
+    } catch (error) {
+        throw new ApiError(500, "Internal Server Error", error)
+    }
     
     // console.log(videoId);
 })

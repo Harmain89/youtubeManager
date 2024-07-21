@@ -57,12 +57,12 @@ const getVideoComments = asyncHandler(async (req, res) => {
     // console.log(videoId);
 })
 
-const addComment = asyncHandler(async (req, res) => {
+const addComment = asyncHandler(async (req, res) => {   
     const { videoId } = req.params;
     const { content } = req.body;
     const owner = req.user?._id;
 
-    if([videoId, content, owner].some((field) => !field || field?.trim === '')) {
+    if([videoId, content, owner].some((field) => !field || field?.trim() === '')) {
         throw new ApiError(200, "All fields are required")
     }
 
@@ -79,5 +79,48 @@ const addComment = asyncHandler(async (req, res) => {
     throw new ApiError(400, "Something Went Wrong")
 })
 
+const updateComment = asyncHandler(async (req, res) => {
+    const { commentId } = req.params;
+    const { content } = req.body;
 
-export { getVideoComments, addComment }
+    if(!commentId) {
+        throw new ApiError(400, "Comment's Id is required")
+    }
+
+    const comment = await Comment.findById(commentId)
+
+    if (!comment) {
+        throw new ApiError(404, "Comment not found");
+    }
+
+    // console.log(content);
+
+    if(content) {
+
+        comment.content = content.trim();
+        await comment.save();
+    }
+
+    res.status(200).json(new ApiResponse(200, comment, "Comment Updated."))
+
+})
+
+const deleteComment = asyncHandler(async (req, res) => {
+    const { commentId } = req.params;
+
+    if(!commentId) {
+        throw new ApiError(400, "Comment's Id is required.");
+    }
+
+    const comment = await Comment.findOneAndDelete({
+        _id: commentId
+    })
+
+    if(!comment) {
+        throw new ApiError(404, "Comment not found.")
+    }
+
+    res.status(201).json(new ApiResponse(201, comment, "Comment deleted."))
+})
+
+export { getVideoComments, addComment, updateComment, deleteComment }
